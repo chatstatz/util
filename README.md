@@ -2,6 +2,8 @@
 
 This package provides utility support for chatstatz applications.
 
+![tests](https://github.com/chatstatz/util/workflows/tests/badge.svg)
+
 ## Usage
 
 ```bash
